@@ -87,7 +87,7 @@ subdivision_flag = []
 
 # All emoji
 
-all_Smileys_and_people = list(set())
+all_Smileys_and_people = list(set(face_positive+face_neutral+face_negative+face_sick+face_role+face_fantasy+face_cat+face_monkey+person+person_role+person_fantasy+person_gesture+person_activity+person_sport+family+body+emotion+clothing))
 all_Animals_and_nature = list(set())
 all_Travel_and_places = list(set())
 all_Activities = list(set())
