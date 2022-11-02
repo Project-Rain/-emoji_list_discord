@@ -11,18 +11,18 @@ face_cat = [u'\U0001f63a',u'\U0001f638',u'\U0001f639',u'\U0001f63b',u'\U0001f63c
 face_monkey = [u'\U0001f648',u'\U0001f649',u'\U0001f64a']
 person = [u'\U0001f476',u'\U0001f476',u'\U0001f476',u'\U0001f476',u'\U0001f476',u'\U0001f476',u'\U0001f9d2',u'\U0001f9d2',u'\U0001f9d2',u'\U0001f9d2',u'\U0001f9d2',u'\U0001f9d2',u'\U0001f466',u'\U0001f466',u'\U0001f466',u'\U0001f466',u'\U0001f466',u'\U0001f466',u'\U0001f467',u'\U0001f467',u'\U0001f467',u'\U0001f467',u'\U0001f467',u'\U0001f467',u'\U0001f9d1',u'\U0001f9d1',u'\U0001f9d1',u'\U0001f9d1',u'\U0001f9d1',u'\U0001f9d1',u'\U0001f468',u'\U0001f468',u'\U0001f468',u'\U0001f468',u'\U0001f468',u'\U0001f468',u'\U0001f469',u'\U0001f469',u'\U0001f469',u'\U0001f469',u'\U0001f469',u'\U0001f469',u'\U0001f9d3',u'\U0001f9d3',u'\U0001f9d3',u'\U0001f9d3',u'\U0001f9d3',u'\U0001f9d3',u'\U0001f474',u'\U0001f474',u'\U0001f474',u'\U0001f474',u'\U0001f474',u'\U0001f474',u'\U0001f475',u'\U0001f475',u'\U0001f475',u'\U0001f475',u'\U0001f475',u'\U0001f475']
 person_role = [u'\U0001f575',u'\U0001f477',u'\U0001f471',u'\U0001f470',u'\U0001f473',u'\U0001f472',u'\U0001f33e',u'\u2708',u'\U0001f478',u'\U0001f3a4',u'\u2695',u'\u2696',u'\U0001f46e',u'\U0001f469',u'\U0001f468',u'\U0001f3a8',u'\U0001f393',u'\U0001f930',u'\U0001f4bc',u'\u2640',u'\u2642',u'\U0001f931',u'\U0001f373',u'\U0001f4bb',u'\U0001f935',u'\U0001f527',u'\U0001f52c',u'\U0001f3ed',u'\U0001f3eb',u'\U0001f692',u'\U0001f934',u'\U0001f9d4',u'\U0001f9d5',u'\U0001f680',u'\U0001f482']
-person_fantasy = []
-person_gesture = []
-person_activity = []
-person_sport
-family = []
-body = []
-emotion = []
-clothing = []
+person_fantasy = [u'']
+person_gesture = [u'']
+person_activity = [u'']
+person_sport = [u'']
+family = [u'']
+body = [u'']
+emotion = [u'']
+clothing = [u'']
 
 # Animals and nature
 
-animals_mammal = []
+animals_mammal = [u'']
 animal_bird = []
 animal_amphibian = []
 animal_reptile = []
