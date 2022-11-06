@@ -1,4 +1,4 @@
-__version__ = 0.1.1
+__version__ = '0.1.1'
 
 from emoji_list_discord.Smileys_and_people import *
 from emoji_list_discord.Animals_and_nature import *
