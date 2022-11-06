@@ -3,7 +3,15 @@ pythonライブラリの [emoji-list](https://github.com/vincentmwong/emoji_list
 
 ### Total
 
-all_emoji 
+* all_emoji 
+* all_Smileys_and_people
+* all_Animals_and_nature
+* all_Food_and_drink
+* all_Travel_and_places
+* all_Activities
+* all_Objects
+* all_Symbols
+
 
 ### Smileys and people
 * face_positive
