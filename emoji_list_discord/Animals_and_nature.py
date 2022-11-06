@@ -1,0 +1,8 @@
+animals_mammal = [u'']
+animal_bird = [u'']
+animal_amphibian = [u'']
+animal_reptile = [u'']
+animal_marine = [u'']
+animal_bug = [u'']
+plant_flower = [u'']
+plant_other = [u'']
